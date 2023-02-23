@@ -1,0 +1,2 @@
+print("Headache")
+print("ASPIRIN")
